@@ -1,2 +1,2 @@
-# Medium-
+# Medium
 Developers Global Publication
