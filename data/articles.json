@@ -1,0 +1,165 @@
+{
+  "publication": "DevelopersGlobal - Medium",
+  "description": "Developers Global is a worldwide community where developers can come together to share insights, articles, and resources related to technology. It serves as a platform for developers of all skill levels to explore tech life, exchange ideas and much more - Medium",
+  "lastUpdate": "2026-04-30T11:48:57.384Z",
+  "articles": [
+    {
+      "title": "System Prompts vs User Prompts: The Security Boundary Every AI Developer Gets Wrong",
+      "link": "https://medium.com/developersglobal/system-prompts-vs-user-prompts-the-security-boundary-every-ai-developer-gets-wrong-a6b6733ded83?source=rss----4d909c5141bc---4",
+      "pubDate": "Thu, 30 Apr 2026 07:08:03 GMT",
+      "author": "Dhanush N",
+      "categories": [
+        "prompt-engineering",
+        "writing-prompts",
+        "artificial-intelligence",
+        "cybersecurity",
+        "ai"
+      ],
+      "thumbnail": "",
+      "snippet": "Your AI app has two types of instructions. One is trusted. One isn&#x2019;t. And the model can&#x2019;t reliably tell them apart.Continue reading on DevelopersGlobal »",
+      "guid": "https://medium.com/p/a6b6733ded83"
+    },
+    {
+      "title": "The Anatomy of a Perfect AI Prompt. Most People Get It Wrong on the First Line.",
+      "link": "https://medium.com/developersglobal/the-anatomy-of-a-perfect-ai-prompt-most-people-get-it-wrong-on-the-first-line-8131a7ba9c70?source=rss----4d909c5141bc---4",
+      "pubDate": "Wed, 29 Apr 2026 11:33:18 GMT",
+      "author": "Dhanush N",
+      "categories": [
+        "ai",
+        "prompt-engineering",
+        "llm",
+        "openai",
+        "claude"
+      ],
+      "thumbnail": "",
+      "snippet": "Four pillars. One framework. The difference between AI that frustrates you and AI that feels like a senior engineer on your team.Continue reading on DevelopersGlobal »",
+      "guid": "https://medium.com/p/8131a7ba9c70"
+    },
+    {
+      "title": "Don’t Become a DevOps Engineer in 2026!",
+      "link": "https://medium.com/developersglobal/dont-become-a-devops-engineer-in-2026-f2e94541e700?source=rss----4d909c5141bc---4",
+      "pubDate": "Tue, 28 Apr 2026 06:01:17 GMT",
+      "author": "Dhanush N",
+      "categories": [
+        "ai-agent",
+        "devops-engineer",
+        "devops",
+        "devsecops",
+        "future-of-work"
+      ],
+      "thumbnail": "",
+      "snippet": "Stop writing YAML. Stop babysitting pipelines. The game has fundamentally changed.Continue reading on DevelopersGlobal »",
+      "guid": "https://medium.com/p/f2e94541e700"
+    },
+    {
+      "title": "Every Developer Uses AI. Almost None of Them Understand How It Actually Works.",
+      "link": "https://medium.com/developersglobal/every-developer-uses-ai-almost-none-of-them-understand-how-it-actually-works-b472184cd6e1?source=rss----4d909c5141bc---4",
+      "pubDate": "Mon, 27 Apr 2026 15:28:07 GMT",
+      "author": "Dhanush N",
+      "categories": [
+        "openai",
+        "development",
+        "ai",
+        "artificial-intelligence",
+        "claude"
+      ],
+      "thumbnail": "",
+      "snippet": "Tokens, temperature, top-p and context windows. The 10-minute guide that will make you dangerous.Continue reading on DevelopersGlobal »",
+      "guid": "https://medium.com/p/b472184cd6e1"
+    },
+    {
+      "title": "Why Your Network Security is Still Failing",
+      "link": "https://medium.com/developersglobal/why-your-network-security-is-still-failing-608abf1c1298?source=rss----4d909c5141bc---4",
+      "pubDate": "Sun, 26 Apr 2026 14:26:21 GMT",
+      "author": "Dhanush N",
+      "categories": [
+        "network-security",
+        "information-security",
+        "web-application-firewall",
+        "cybersecurity",
+        "waf"
+      ],
+      "thumbnail": "",
+      "snippet": "From stateless filters to Next-Gen context, here is how web application firewalls evolved to stop modern hackers.Continue reading on DevelopersGlobal »",
+      "guid": "https://medium.com/p/608abf1c1298"
+    },
+    {
+      "title": "Rethinking RAG: When Retrieval Helps — and When It Hurts",
+      "link": "https://medium.com/developersglobal/rethinking-rag-when-retrieval-helps-and-when-it-hurts-b7e00b69e46c?source=rss----4d909c5141bc---4",
+      "pubDate": "Sun, 26 Apr 2026 14:24:31 GMT",
+      "author": "Narmadha",
+      "categories": [
+        "llm",
+        "llmops",
+        "rags",
+        "optimization",
+        "agenticretrieval"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*afGGumCegeanA_d2Cff7nQ.png",
+      "snippet": "Building smarter AI assistants by knowing when to retrieve, what to retrieve, and how to reason with it.IntroductionLarge Language Models (LLMs) have unlocked an entirely new class...",
+      "guid": "https://medium.com/p/b7e00b69e46c"
+    },
+    {
+      "title": "Building a Smart Icon Search API with FastAPI and Reverse Indexing",
+      "link": "https://medium.com/developersglobal/building-a-smart-icon-search-api-with-fastapi-and-reverse-indexing-a99e52e5cc21?source=rss----4d909c5141bc---4",
+      "pubDate": "Wed, 22 Apr 2026 05:33:53 GMT",
+      "author": "Narmadha",
+      "categories": [
+        "fastapi",
+        "icon-search",
+        "reverse-index",
+        "optimal-performance",
+        "fuzzy-search"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*gUY8UjjrkIIWhL-DrOMz7g.png",
+      "snippet": "Learn how to build a blazing-fast icon search engine using FastAPI, reverse indexing, and fuzzy matching.The ProblemImagine you have a large collection of icons, each tagged with m...",
+      "guid": "https://medium.com/p/a99e52e5cc21"
+    },
+    {
+      "title": "Automating Price Drop Alerts on LocalMarket place.",
+      "link": "https://medium.com/developersglobal/automating-price-drop-alerts-on-localmarket-place-8145cfb70f11?source=rss----4d909c5141bc---4",
+      "pubDate": "Wed, 08 Apr 2026 12:07:03 GMT",
+      "author": "Darshika Premaranjan",
+      "categories": [
+        "daraz",
+        "web-scrap",
+        "automation",
+        "web-development",
+        "fintech"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*6bm5UKEBVQzcD8XBVmQIZA.png",
+      "snippet": "I built a price-drop tracking system for Daraz.lk because I often add my favorite items to the cart and forget to check back. Sometimes I buy them at the normal price, or I miss di...",
+      "guid": "https://medium.com/p/8145cfb70f11"
+    },
+    {
+      "title": "The Evolution Beyond Apple ios 19",
+      "link": "https://medium.com/developersglobal/the-evolution-beyond-apple-ios-19-327ecddb8395?source=rss----4d909c5141bc---4",
+      "pubDate": "Mon, 06 Apr 2026 06:42:45 GMT",
+      "author": "Satishlokhande",
+      "categories": [
+        "education",
+        "science",
+        "programming",
+        "technology"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/640/1*iJmpXW9FpjU_H4Ka7J6dcg.jpeg",
+      "snippet": "When people started talking about “iOS 19,” they were really referring to Apple’s next big leap in iPhone software after iOS 18. Over the years, Apple has followed a pattern of inc...",
+      "guid": "https://medium.com/p/327ecddb8395"
+    },
+    {
+      "title": "History of Devgiri Fort",
+      "link": "https://medium.com/developersglobal/history-of-devgiri-fort-9415d3e191f6?source=rss----4d909c5141bc---4",
+      "pubDate": "Sun, 05 Apr 2026 15:20:33 GMT",
+      "author": "Satishlokhande",
+      "categories": [
+        "education",
+        "history",
+        "science",
+        "technology"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/687/1*7CORg2okbUNl7hIrg4cFmA.jpeg",
+      "snippet": "Devgiri Fort, later known as Daulatabad Fort, stands as one of the most formidable and strategically brilliant hill forts in Indian history. Located near present-day Aurangabad in ...",
+      "guid": "https://medium.com/p/9415d3e191f6"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevelopersGlobal on Medium</title>
+    <meta name="description" content="The latest articles and insights from the DevelopersGlobal Medium publication.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="glow-bg"></div>
+    <div class="glow-bg glow-bg-2"></div>
+
+    <header class="header">
+        <div class="container">
+            <h1 id="pub-title">DevelopersGlobal</h1>
+            <p id="pub-desc" class="subtitle">Fetching publication details...</p>
+            <div class="header-actions">
+                <a href="https://medium.com/developersglobal" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Visit on Medium</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="status-bar">
+            <span id="last-updated">Last updated: --</span>
+        </div>
+
+        <section id="articles-grid" class="articles-grid">
+            <!-- Skeleton Loading State -->
+            <div class="article-card skeleton">
+                <div class="skeleton-img"></div>
+                <div class="card-content">
+                    <div class="skeleton-text skeleton-title"></div>
+                    <div class="skeleton-text skeleton-title short"></div>
+                    <div class="skeleton-text skeleton-meta"></div>
+                    <div class="skeleton-text skeleton-desc"></div>
+                    <div class="skeleton-text skeleton-desc"></div>
+                </div>
+            </div>
+            <div class="article-card skeleton">
+                <div class="skeleton-img"></div>
+                <div class="card-content">
+                    <div class="skeleton-text skeleton-title"></div>
+                    <div class="skeleton-text skeleton-title short"></div>
+                    <div class="skeleton-text skeleton-meta"></div>
+                    <div class="skeleton-text skeleton-desc"></div>
+                    <div class="skeleton-text skeleton-desc"></div>
+                </div>
+            </div>
+            <div class="article-card skeleton">
+                <div class="skeleton-img"></div>
+                <div class="card-content">
+                    <div class="skeleton-text skeleton-title"></div>
+                    <div class="skeleton-text skeleton-title short"></div>
+                    <div class="skeleton-text skeleton-meta"></div>
+                    <div class="skeleton-text skeleton-desc"></div>
+                    <div class="skeleton-text skeleton-desc"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Auto-updated directly from Medium using GitHub Actions.</p>
+        </div>
+    </footer>
+
+    <!-- Template for Article Card -->
+    <template id="article-template">
+        <article class="article-card">
+            <a href="#" class="article-link" target="_blank" rel="noopener noreferrer">
+                <div class="article-image">
+                    <img src="" alt="Article Thumbnail" loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="article-meta">
+                        <span class="article-date"></span>
+                        <span class="article-author"></span>
+                    </div>
+                    <h2 class="article-title"></h2>
+                    <p class="article-snippet"></p>
+                    <div class="article-tags"></div>
+                </div>
+            </a>
+        </article>
+    </template>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
