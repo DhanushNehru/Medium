@@ -1,7 +1,7 @@
 {
   "publication": "DevelopersGlobal - Medium",
   "description": "Developers Global is a worldwide community where developers can come together to share insights, articles, and resources related to technology. It serves as a platform for developers of all skill levels to explore tech life, exchange ideas and much more - Medium",
-  "lastUpdate": "2026-04-30T11:48:57.384Z",
+  "lastUpdate": "2026-04-30T11:58:19.089Z",
   "articles": [
     {
       "title": "System Prompts vs User Prompts: The Security Boundary Every AI Developer Gets Wrong",
@@ -145,21 +145,6 @@
       "thumbnail": "https://cdn-images-1.medium.com/max/640/1*iJmpXW9FpjU_H4Ka7J6dcg.jpeg",
       "snippet": "When people started talking about “iOS 19,” they were really referring to Apple’s next big leap in iPhone software after iOS 18. Over the years, Apple has followed a pattern of inc...",
       "guid": "https://medium.com/p/327ecddb8395"
-    },
-    {
-      "title": "History of Devgiri Fort",
-      "link": "https://medium.com/developersglobal/history-of-devgiri-fort-9415d3e191f6?source=rss----4d909c5141bc---4",
-      "pubDate": "Sun, 05 Apr 2026 15:20:33 GMT",
-      "author": "Satishlokhande",
-      "categories": [
-        "education",
-        "history",
-        "science",
-        "technology"
-      ],
-      "thumbnail": "https://cdn-images-1.medium.com/max/687/1*7CORg2okbUNl7hIrg4cFmA.jpeg",
-      "snippet": "Devgiri Fort, later known as Daulatabad Fort, stands as one of the most formidable and strategically brilliant hill forts in Indian history. Located near present-day Aurangabad in ...",
-      "guid": "https://medium.com/p/9415d3e191f6"
     }
   ]
 }

@@ -12,6 +12,7 @@ const parser = new Parser({
 
 const FEED_URL = 'https://medium.com/feed/developersglobal';
 const OUTPUT_FILE = path.join(__dirname, '../data/articles.json');
+const MAX_ARTICLES = parseInt(process.env.MAX_ARTICLES || '9', 10);
 
 // Extract image from HTML content
 function extractImage(content) {
@@ -42,7 +43,7 @@ async function fetchArticles() {
     
     console.log(`Found ${feed.items.length} articles.`);
     
-    const articles = feed.items.map(item => {
+    const articles = feed.items.slice(0, MAX_ARTICLES).map(item => {
       // The medium feed gives content in contentEncoded or content
       const htmlContent = item.contentEncoded || item.content || '';
       
